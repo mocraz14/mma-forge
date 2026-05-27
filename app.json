@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MMA Forge",
+    "slug": "mma-forge",
+    "scheme": "mmaforge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "android": {
+      "package": "com.yourname.mmaforge",
+      "adaptiveIcon": { "backgroundColor": "#0a0a0a" }
+    },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
